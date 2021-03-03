@@ -1,0 +1,17 @@
+A class called Point to represent a point on a plane (i.e. x and y coordinates, 
+floats, representing meters from the origin) A class called Rectangle that 
+represents a rectangle with two points 
+Rectangle
+A class called Triangle that represents a triangle with three points.
+Triangle
+A class called Circle that represents a circle by a point and a radius (float)
+Circle
+A class called Scene that represents a scene consisting of one or more rectangles, 
+circles and triangles. The part after the # is a method to create in the scene class. 
+The text in between the ()’s describes what the method must do. These are the methods 
+0-you need to write unit tests for.
+
+static void Main()
+{
+	
+}
